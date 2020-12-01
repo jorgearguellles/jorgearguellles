@@ -1,5 +1,5 @@
 ### Hi!  I'm Jorge Argüelles 👋
-- 🔭 I'm Industrial Engineer & MERN Fullstack Developer  training in Platzi master Program. 
+- 🔭 I'm Industrial Engineer & MERN Fullstack Developer  training in Platzi Master Program.  
 - :video_game: I believe in gamification is the next education revolution & the time is the most valuable resource in life.
 
 - 🌱 I never stop learning, growing and questioning my cultural environment. I am analytical, goal oriented and systematic vision.
