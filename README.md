@@ -8,4 +8,4 @@
 - :man_scientist: I create with Figma, Adobe XD, HTML, CSS, JavaScript, React.js,  Next.js & Styled Components.
 - You can find more about me: <code><a href="https://www.linkedin.com/in/jorge-arias-argüelles-a8303056/"><img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 
-![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&show_icons=true)
+![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&title_color=ffb300&show_icons=true)
