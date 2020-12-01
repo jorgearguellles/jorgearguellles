@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi! I'm Jorge Argüelles, MERN Fullstack developer training in Platzi Master program 👋
+
+I believe in gamification is the next education revolution & the time is the most valuable resource in life.
+I never stop learning, growing and questioning my cultural environment. I am analytical, goal oriented and systematic vision.
+
+I enjoy working on projects that transform people and that technology leverages the reach and impact, that's why I want to create technology and gamify education.
+
+
 
 <!--
 **jorgearguellles/jorgearguellles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
