@@ -6,6 +6,6 @@
 
 - :man_technologist:  I enjoy working on projects that transform people and that technology leverages the reach and impact, that's why I want to create technology and gamify education.
 - :man_scientist: I work with Figma, Adobe XD, HTML, CSS, JavaScript, React.js,  Next.js & Styled Components.
-- You can find more about me in my: <code><a href="https://www.linkedin.com/in/jorge-arias-argüelles-a8303056/"><img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+- You can find more about me: <code><a href="https://www.linkedin.com/in/jorge-arias-argüelles-a8303056/"><img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 
 ![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&show_icons=true)
