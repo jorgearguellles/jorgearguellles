@@ -8,4 +8,9 @@
 - :man_scientist: Figma, Adobe XD, HTML, CSS, JavaScript, React.js,  Next.js & Styled Components.
 - You can find more about me: <code><a href="https://www.linkedin.com/in/jorge-arias-argüelles-a8303056/"><img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/jorgearguellles)
+29
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jorge-arias-argüelles-a8303056/)
+30
+
 ![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
