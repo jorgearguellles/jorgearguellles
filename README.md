@@ -1,5 +1,5 @@
 ### Hi!  I'm Jorge Argüelles 👋
-- 🔭 Industrial Engineer & Front en Developer training in Platzi Master Program.  
+- 🔭 Industrial Engineer & Front end Developer
 - :video_game: Gamification is the next education revolution.
 
 - 🌱 Never stop learning, growing and questioning the cultural environment. Analytical thinking, goal-oriented and systematic vision.
