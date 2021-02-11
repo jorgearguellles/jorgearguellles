@@ -1,5 +1,5 @@
 ### Hi!  I'm Jorge Argüelles 👋
-- 🔭 Industrial Engineer & Front end Developer
+- 🔭 Industrial & Software Engineer
 
 - 🌱 lifelong learner, goal-oriented and systematic vision.
 
