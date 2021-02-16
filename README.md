@@ -1,4 +1,4 @@
-### Hi!  I'm Jorge Argüelles 👋
+### Hi!  I'm Jorge Arias Argüelles 👋
 - 🔭 Industrial & Software Engineer
 
 - 🌱 lifelong learner, goal-oriented and systematic vision.
