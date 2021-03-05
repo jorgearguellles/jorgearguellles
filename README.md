@@ -1,5 +1,5 @@
 ### Hi!  I'm Jorge Arias Argüelles 👋
-- 🔭 Industrial & Software Engineer
+- 🔭 Industrial Engineer & Frontend Developer Jr
 
 - 🌱 lifelong learner, goal-oriented and systematic vision.
 
