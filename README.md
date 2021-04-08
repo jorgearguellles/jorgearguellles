@@ -15,6 +15,6 @@
 
 ![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
 
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&layout=compact" alt="JorgeAriasArgüelles" />
-</p>
+
