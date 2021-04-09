@@ -1,11 +1,11 @@
 ### Hi!  I'm Jorge Arias Argüelles 👋
-- 🕸️ Industrial Engineer & Jr Frontend Developer
+- 🦅 Industrial Engineer & Jr Frontend Developer
 
 - 🦉 I'm a lifelong learner
 
 - 🍕 I love napolitan style pizza  🤤
 
-- :man_scientist:   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+- 👨🏻‍💻  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
   [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
