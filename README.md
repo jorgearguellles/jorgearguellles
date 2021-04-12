@@ -12,8 +12,5 @@
   <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
-![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&&title_color=5DB03D&layout=compact" alt="JorgeAriasArgüelles" />
+![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&title_color=5DB03D&icon_color=5DB03D&show_icons=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&&title_color=5DB03D&layout=compact" alt="JorgeAriasArgüelles" />
 
