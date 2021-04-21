@@ -1,4 +1,5 @@
-### Hi!  I'm Jorge Arias Argüelles 👋
+# Hi!  I'm Jorge Arias Argüelles 👋
+
 - 🦅 Industrial Engineer & Jr Frontend Developer
 - 🦉 I'm a lifelong learner
 - 🍕 I love napolitan style pizza  🤤
