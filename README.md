@@ -1,6 +1,6 @@
 # Hi!  I'm Jorge Arias Argüelles 👋
 
-- 🦅 Industrial Engineer & Jr Frontend Developer
+- 🦅 Industrial & Software Engineer 
 - 🌱 I’m currently learning Fundamentals´s JavaScript 
 - 💬 Ask me about HTML5, CSS3 & JavaScript 
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/)
