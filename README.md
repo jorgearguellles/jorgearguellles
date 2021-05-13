@@ -2,7 +2,7 @@
 
 - 🦅 Industrial & Software Engineer 
 - 🌱 I’m currently learning Fundamentals´s JavaScript 
-- 💬 Ask me about HTML5, CSS3 & JavaScript 
+- 💬 Ask me about JavaScript 
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/)
 - 🍕 I love napolitan style pizza  🤤
 - 👨🏻‍💻  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
