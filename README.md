@@ -19,5 +19,9 @@
 
 # 👨🏻‍💻 Proyectos
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=weatherApp&cache_seconds=86400&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=batatabit&cache_seconds=86400&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=jamer-frontend&cache_seconds=86400&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=Datawarehouse-SataticPage&cache_seconds=86400&theme=vue-dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=googleClone&cache_seconds=86400&theme=vue-dark)
 
