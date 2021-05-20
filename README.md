@@ -17,3 +17,7 @@
 
 ![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue-dark&title_color=5DB03D&icon_color=5DB03D&show_icons=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue-dark&title_color=5DB03D&layout=compact" alt="JorgeAriasArgüelles" />
 
+# 👨🏻‍💻 Proyectos
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=googleClone&cache_seconds=86400&theme=vue-dark)
+
