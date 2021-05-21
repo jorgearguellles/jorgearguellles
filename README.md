@@ -29,8 +29,8 @@
 <a href="https://github.com/jorgearguellles/luxon-1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=luxon-1&cache_seconds=86400&theme=vue-dark" />
 </a>
-<a href="https://github.com/JAMER-Digitalizer/jamer-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=jamer-frontend&cache_seconds=86400&theme=vue-dark" />
+<a href="https://github.com/jorgearguellles/spa_RickAndMorty_API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=spa_RickAndMorty_API&cache_seconds=86400&theme=vue-dark" />
 </a>
 <a href="https://github.com/jorgearguellles/Datawarehouse-SataticPage">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=Datawarehouse-SataticPage&cache_seconds=86400&theme=vue-dark" />
