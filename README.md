@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi!  I'm Jorge Arias Argüelles 
 
-- 🦅 Industrial & Front End Developer 
+- 🦅 Industrial Engineer & Front End Developer 
 - 🌱 I’m currently learning Fundamentals´s JavaScript 
 - 💬 Ask me about JavaScript 
 - 📫 How to reach me: [My LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/)
