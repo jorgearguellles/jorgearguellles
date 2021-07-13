@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi!  I'm Jorge Arias Argüelles 
+# Hi!  I'm Jorge Arias Argüelles 
 
 - 🦅 Industrial Engineer & Front End Developer 
 - 🌱 I’m currently learning Fundamentals´s JavaScript 
