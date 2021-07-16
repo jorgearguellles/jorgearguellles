@@ -2,7 +2,7 @@
 
 Industrial Engineer & Front End Developer coding with a very good Colombian ☕ & napolitan style pizza lover 🤤
 
-# 👨🏻‍💻 Hard Skills
+# 🧰 Some design & develop tools
   
  <p align="left"> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -17,7 +17,7 @@ Industrial Engineer & Front End Developer coding with a very good Colombian ☕ 
 ![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue&title_color=5DB03D&layout=compact" alt="JorgeAriasArgüelles" />
 
-# 👨🏻‍💻 Projects
+# 🧶 Some projects
 
 <a href="https://github.com/jorgearguellles/weatherApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=weatherApp&cache_seconds=86400&theme=vue-dark" />
