@@ -1,4 +1,4 @@
-# Hi!  I'm Jorge Arias Argüelles, Front End Developer coding with 
+# Hi!  I'm Jorge Arias Argüelles, Front End Developer working with
   
  <p align="left"> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
