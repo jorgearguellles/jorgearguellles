@@ -1,8 +1,4 @@
-# Hi!  I'm Jorge Arias Argüelles 
-
-Industrial Engineer & Front End Developer coding with a very good Colombian ☕ & napolitan style pizza lover 🤤
-
-# 🧰 Some tools
+# Hi!  I'm Jorge Arias Argüelles, Front End Developer coding with 
   
  <p align="left"> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
