@@ -36,9 +36,8 @@
 </a>
   
 <a href="https://nodejs.org/en/">
-  <img alt="node" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" height="40px" />
+  <img alt="node" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40px" />
 </a>
-
 </p>
 
 ![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
