@@ -38,6 +38,10 @@
 <a href="https://nodejs.org/en/">
   <img alt="node" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40px" />
 </a>
+  
+<a href="https://aws.amazon.com/es/">
+  <img alt="node" src="https://github.com/prplx/svg-logos/blob/master/svg/aws.svg" height="40px" />
+</a>
 </p>
 
 ![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
