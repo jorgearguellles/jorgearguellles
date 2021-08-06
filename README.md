@@ -40,7 +40,7 @@
 </a>
   
 <a href="https://aws.amazon.com/es/">
-  <img alt="node" src="https://github.com/prplx/svg-logos/blob/master/svg/aws.svg" height="40px" />
+  <img alt="node" src="https://github.com/prplx/svg-logos/blob/master/svg/aws.svg" height="30px" />
 </a>
 </p>
 
