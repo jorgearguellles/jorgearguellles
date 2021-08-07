@@ -10,14 +10,12 @@
 <a href="https://github.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
 </a>
-
 <a href="https://www.npmjs.com">
   <img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" height="40px" />
 </a>
 <a href="https://www.npmjs.com">
   <img alt="yarn" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" height="40px" />
 </a>
-
 <a href="https://www.w3.org/html/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank">
@@ -34,11 +32,9 @@
 <a href="https://www.styled-components.com">
   <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40px" />
 </a>
-  
 <a href="https://nodejs.org/en/">
   <img alt="node" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="40px" />
 </a>
-  
 <a href="https://aws.amazon.com/es/">
   <img alt="node" src="https://github.com/prplx/svg-logos/blob/master/svg/aws.svg" height="30px" />
 </a>
