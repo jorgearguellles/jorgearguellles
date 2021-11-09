@@ -39,17 +39,19 @@
 
 # 🧶 Projects
 
+<a href="https://github.com/jorgearguellles/todo-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=todo-app&cache_seconds=86400&theme=vue-dark" />
+</a>
 <a href="https://github.com/jorgearguellles/weatherApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=weatherApp&cache_seconds=86400&theme=vue-dark" />
 </a>
+<a href="https://github.com/jorgearguellles/luxon-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=luxon-1&cache_seconds=86400&theme=vue-dark" />
+</a> 
 <a href="https://github.com/jorgearguellles/batatabit">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=batatabit&cache_seconds=86400&theme=vue-dark" />
 </a>
-<a href="https://github.com/jorgearguellles/luxon-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=luxon-1&cache_seconds=86400&theme=vue-dark" />
-<a href="https://github.com/jorgearguellles/Datawarehouse-SataticPage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=Datawarehouse-SataticPage&cache_seconds=86400&theme=vue-dark" />
-</a>
+
 
 
 
