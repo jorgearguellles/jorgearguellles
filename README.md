@@ -1,4 +1,5 @@
-# Hi!  I'm Jorge Arias Argüelles, Front End Developer working with
+# Hi!  I'm Jorge Arias Argüelles
+## Front End Developer working with
   
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank">
