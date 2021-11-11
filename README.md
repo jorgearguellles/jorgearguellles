@@ -1,4 +1,4 @@
-# Hi!  I'm a Front End Developer working with
+# Front End Developer working with
   
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank">
