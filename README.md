@@ -1,5 +1,30 @@
-# Front End Developer working with
-  
+# Hi there I'm Jorge Arias Argüelles 👋
+
+<a href="https://www.linkedin.com/in/jorgeariasarguelles/" target="_blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" height="50"/>
+</a>
+<a href = 'https://twitter.com/jorgeariasarg'>
+  <img align="center" width ='32px' src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/>
+</a> 
+
+Jorge Arias Argüelles studied Industrial Engineering and has been specializing in web development for a year.
+
+Before web development, Jorge founded a Hostel & Café where he raised kitchen and hotel processes, learned about customer service interacting in English with travelers from more than 45 countries. He was also a Hospital Clown (Yes!, Like Patch Adams) and was part of the pre-production and production team of the III International Congress of Hospital Clowns.
+
+Currently developing Frontend projects working with: HTML, CSS + CSS Modules + Styled-Components and JavaScript + React.js + Next.js and Node.js. Manage versions with Git & Github and SCRUM as an agile work methodology.
+
+He is currently studying English, taking a Full Stack Development Bootcamp, reading a book on quantum physics applied to life and on the installation of habits.
+
+My profile overview:
+<div>
+ 
+![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue&title_color=5DB03D&layout=compact" alt="JorgeAriasArgüelles" />
+<div/>
+
+
+## Tech stack <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -34,8 +59,6 @@
 </a>
 </p>
 
-![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue&title_color=5DB03D&layout=compact" alt="JorgeAriasArgüelles" />
 
 # 🧶 Projects
 
