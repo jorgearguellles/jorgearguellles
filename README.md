@@ -1,4 +1,4 @@
-# Hi there I'm Jorge Arias Argüelles 👋
+# Hello, I'm Jorge Arias Argüelles 👋
 
 <a href="https://www.linkedin.com/in/jorgeariasarguelles/" target="_blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" height="50"/>
