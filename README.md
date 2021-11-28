@@ -13,7 +13,7 @@ Before web development, Jorge founded a Hostel & Café where he raised kitchen a
 
 Currently developing Frontend projects working with: HTML, CSS + CSS Modules + Styled-Components and JavaScript + React.js + Next.js and Node.js. Manage versions with Git & Github and SCRUM as an agile work methodology.
 
-He is currently studying English, taking a Full Stack Development Bootcamp, reading a book on quantum physics applied to life and on the installation of habits.
+He is currently studying English and reading a book on quantum physics applied to life and on the installation of habits.
 
 My profile overview:
 <div>
