@@ -1,12 +1,5 @@
 # Hello, I'm Jorge Arias Argüelles 👋
 
-<a href="https://www.linkedin.com/in/jorgeariasarguelles/" target="_blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" height="50"/>
-</a>
-<a href = 'https://twitter.com/jorgeariasarg' target="_blank">
-  <img align="center" width ='32px' src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/>
-</a> 
-
 <div>
   
 ![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
