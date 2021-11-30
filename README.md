@@ -1,12 +1,5 @@
 # Hello, I'm Jorge Arias Argüelles 👋
 
-<div>
-  
-![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue&title_color=5DB03D&layout=compact" alt="JorgeAriasArgüelles" />
-<div/>
-
-
 ## Tech stack <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <p align="left"> 
@@ -42,6 +35,12 @@
   <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40px" />
 </a>
 </p>
+
+<div>
+  
+![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue&title_color=5DB03D&layout=compact" alt="JorgeAriasArgüelles" />
+<div/>
 
 
 # 🧶 Projects
