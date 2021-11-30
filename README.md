@@ -3,21 +3,12 @@
 <a href="https://www.linkedin.com/in/jorgeariasarguelles/" target="_blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" height="50"/>
 </a>
-<a href = 'https://twitter.com/jorgeariasarg'>
+<a href = 'https://twitter.com/jorgeariasarg' target="_blank">
   <img align="center" width ='32px' src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/>
 </a> 
 
-Jorge Arias Argüelles studied Industrial Engineering and has been specializing in web development for a year.
-
-Before web development, Jorge founded a Hostel & Café where he raised kitchen and hotel processes, learned about customer service interacting in English with travelers from more than 45 countries. He was also a Hospital Clown (Yes!, Like Patch Adams) and was part of the pre-production and production team of the III International Congress of Hospital Clowns.
-
-Currently developing Frontend projects working with: HTML, CSS + CSS Modules + Styled-Components and JavaScript + React.js + Next.js and Node.js. Manage versions with Git & Github and SCRUM as an agile work methodology.
-
-He is currently studying English and reading a book on quantum physics applied to life and on the installation of habits.
-
-My profile overview:
 <div>
- 
+  
 ![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue&title_color=5DB03D&layout=compact" alt="JorgeAriasArgüelles" />
 <div/>
