@@ -34,6 +34,9 @@
 <a href="https://www.styled-components.com">
   <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40px" />
 </a>
+  <a href="https://www.jest.io">
+  <img alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" height="40px" />
+</a>
 </p>
 
 <div>
