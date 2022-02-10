@@ -26,15 +26,15 @@
 <a href="https://sass-lang.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
 </a> 
+ <a href="https://www.styled-components.com">
+  <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40px" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
-<a href="https://www.styled-components.com">
-  <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40px" />
-</a>
-  <a href="https://www.jest.io">
+ <a href="https://www.jest.io">
   <img alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" height="40px" />
 </a>
 </p>
