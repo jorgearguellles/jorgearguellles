@@ -43,7 +43,7 @@
 </p>
   
 ![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue-dark&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue-dark&title_color=5DB03D&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue-dark&title_color=5DB03D)
 
 
 # 🧶 Projects
