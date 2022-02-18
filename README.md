@@ -26,6 +26,9 @@
 <a href="https://sass-lang.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
 </a> 
+<a href="https://getbootstrap.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="60" height="60"/>
+</a> 
  <a href="https://www.styled-components.com">
   <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="40px" />
 </a>
