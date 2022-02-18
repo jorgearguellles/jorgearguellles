@@ -42,23 +42,23 @@
 </a>
 </p>
   
-![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue&title_color=5DB03D)
+![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue-dark&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue-dark&title_color=5DB03D&layout=compact)
 
 
 # 🧶 Projects
 
 <a href="https://github.com/jorgearguellles/todo-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=todo-app&cache_seconds=86400&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=todo-app&cache_seconds=86400&theme=vue-dark&title_color=5DB03D" />
 </a>
 <a href="https://github.com/jorgearguellles/weatherApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=weatherApp&cache_seconds=86400&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=weatherApp&cache_seconds=86400&theme=vue-dark&title_color=5DB03D" />
 </a>
 <a href="https://github.com/jorgearguellles/luxon-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=luxon-1&cache_seconds=86400&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=luxon-1&cache_seconds=86400&theme=vue-dark&title_color=5DB03D" />
 </a> 
 <a href="https://github.com/jorgearguellles/batatabit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=batatabit&cache_seconds=86400&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgearguellles&repo=batatabit&cache_seconds=86400&theme=vue-dark&title_color=5DB03D" />
 </a>
 
 
