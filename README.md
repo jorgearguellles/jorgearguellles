@@ -41,12 +41,9 @@
   <img alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" height="40px" />
 </a>
 </p>
-
-<div>
   
 ![jorgearguellles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgearguellles&theme=vue&title_color=5DB03D&icon_color=5DB03D&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue&title_color=5DB03D&layout=compact" alt="JorgeAriasArgüelles" />
-<div/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&theme=vue&title_color=5DB03D)
 
 
 # 🧶 Projects
