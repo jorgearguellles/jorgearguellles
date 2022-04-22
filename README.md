@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 * 🌍  I'm based in Cali, Colombia.
-* ✉️  You can contact me at [jorgeariasarguelles](mailto:jorgeariasarguelles)
+* ✉️  You can contact me at [jorgeariasarguelles](https://www.linkedin.com/in/jorgeariasarguelles/)
 * 🧠  I'm learning TypeScript, React Native and Swift
 * 🤝  I'm open to collaborating on React.js & React-Native.js projects
 * ⚡  I'm a profesional pizza catador 🍕
