@@ -35,13 +35,13 @@ Frontend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/jorgearguellles" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/jorgearguellles" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&langs_count=10&title_color=5da4cf&text_color=ebefe7&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/jorgearguellles"><img src="https://github-readme-stats.vercel.app/api?username=jorgearguellles&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="jorgearguellles's GitHub stats" /></a>
+<a href="http://www.github.com/jorgearguellles"><img src="https://github-readme-stats.vercel.app/api?username=jorgearguellles&show_icons=true&hide=&count_private=true&title_color=5da4cf&text_color=ffffff&icon_color=5da4cf&bg_color=1c1917&hide_border=true&show_icons=true" alt="jorgearguellles's GitHub stats" /></a>
 
-<a href="http://www.github.com/jorgearguellles"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgearguellles&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/jorgearguellles"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgearguellles&stroke=ffffff&background=1c1917&ring=5da4cf&fire=5da4cf&currStreakNum=ffffff&currStreakLabel=5da4cf&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/jorgearguellles"><img src="https://activity-graph.herokuapp.com/graph?username=jorgearguellles&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/jorgearguellles"><img src="https://activity-graph.herokuapp.com/graph?username=jorgearguellles&bg_color=1c1917&color=ffffff&line=5da4cf&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Support Me
 
