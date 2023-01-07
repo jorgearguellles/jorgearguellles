@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in Cali, Colombia.
 * ✉️  You can contact me at [jorgeariasarguelles](https://www.linkedin.com/in/jorgeariasarguelles/)
-* 🧠  I'm learning React & React Native
+* 🧠  I'm Platzi Master C6
 
 ### Skills
 
