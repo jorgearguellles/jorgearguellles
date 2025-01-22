@@ -27,9 +27,11 @@ Industrial Engineer with 3+ years of experience in Front-End Development, specia
 
 ## My GitHub Stats
 
-<a href="https://github.com/jorgearguellles" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&langs_count=10&title_color=fb8500&text_color=ebefe7&icon_color=22c55e&bg_color=023047&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/jorgearguellles"><img src="https://github-readme-stats.vercel.app/api?username=jorgearguellles&show_icons=true&hide=&count_private=true&title_color=fb8500&text_color=ffffff&icon_color=fb8500&bg_color=023047&hide_border=true&show_icons=true" alt="jorgearguellles's GitHub stats" /></a>
-
-<a href="http://www.github.com/jorgearguellles"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgearguellles&stroke=ffffff&background=023047&ring=fb8500&fire=fb8500&currStreakNum=ffffff&currStreakLabel=fb8500&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+  <a href="https://github.com/jorgearguellles">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&langs_count=10&title_color=fb8500&text_color=ebefe7&icon_color=22c55e&bg_color=023047&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+  <a href="http://www.github.com/jorgearguellles">
+    <img src="https://github-readme-stats.vercel.app/api?username=jorgearguellles&show_icons=true&hide=&count_private=true&title_color=fb8500&text_color=ffffff&icon_color=fb8500&bg_color=023047&hide_border=true&show_icons=true" alt="jorgearguellles's GitHub stats" />
+  </a>
+</div>
