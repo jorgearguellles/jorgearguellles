@@ -1,14 +1,8 @@
-Hi 👋 My name is Jorge Arias Argüelles
-======================================
+# Jorge Arias Argüelles - Frontend Developer
 
-Frontend Developer
-------------------
+Industrial Engineer with 3+ years of experience in Front-End Development, specializing in JavaScript (ES6+), React.js, and version control tools like Git and GitHub. Proficient in Agile methodologies, particularly Scrum, and dedicated to continuous learning and staying at the forefront of web technologies. Currently focused on mastering the latest version of React.js (v19.0) to deliver scalable, high-performance applications. A collaborative team player with a growth mindset, a global perspective, and a strong drive for innovation and process efficiency in software development.
 
-* 🌍  I'm based in Cali, Colombia.
-* ✉️  You can contact me at [jorgeariasarguelles](https://www.linkedin.com/in/jorgeariasarguelles/)
-* 🧠  I'm Platzi Master C6
-
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -23,13 +17,15 @@ Frontend Developer
 </p>
 
 
-### Socials
+## Socials
 
-<p align="left"> <a href="https://www.github.com/jorgearguellles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jorgeariasarguelles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jorgeariasarguelles" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+## My GitHub Stats
 
 <a href="https://github.com/jorgearguellles" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgearguellles&langs_count=10&title_color=fb8500&text_color=ebefe7&icon_color=22c55e&bg_color=023047&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
@@ -37,8 +33,3 @@ Frontend Developer
 
 <a href="http://www.github.com/jorgearguellles"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgearguellles&stroke=ffffff&background=023047&ring=fb8500&fire=fb8500&currStreakNum=ffffff&currStreakLabel=fb8500&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/jorgearguellles"><img src="https://activity-graph.herokuapp.com/graph?username=jorgearguellles&bg_color=023047&color=ffffff&line=fb8500&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/jorgeariasarg"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
