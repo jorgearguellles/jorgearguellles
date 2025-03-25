@@ -1,10 +1,6 @@
 # Jorge Arias Argüelles | Front-End Developer
 
-Frontend Developer with 4 years of experience in web and mobile application development, specializing in JavaScript
-(ES6+), React.js, and version control tools such as Git and GitHub. Proficient in Agile methodologies (Scrum) and focused on
-building scalable, maintainable, and high-performance software. Currently expanding knowledge in artificial intelligence
-tools such as ChatGPT, NotebookML, Perplexity, Claude and AI Agent development to enhance automation. Passionate
-about innovation, continuous learning, AI Enthusiast and process optimization.
+I am a Frontend Developer with 2 years of experience in modern technologies such as React.js, TypeScript, and Redux, specializing in building dynamic, accessible, and scalable web and mobile interfaces (React Native). I stand out for my analytical thinking, goal-oriented mindset, and clear communication, which enable me to translate complex requirements into intuitive and efficient solutions. Additionally, my expertise in SASS, TailwindCSS, Styled-Components, and Bootstrap allows me to optimize user experiences with maintainable code. With a B2 level in English, I stay up to date with best practices and productivity tools, positioning myself as a systematic and strategic software development professional.
 
 ## Skills
 
