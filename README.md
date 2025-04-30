@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate Industrial Engineer fall in love for web 
 
 - 🎓 **Major**: Industrial Engineer 
 - 📍 **Location**: Cali - Colombia  
-- 💼 **Current Job/Position**: Finding new challenges
+- 💼 **Current Job/Position**: Web UI Developer
 - 🌱 **Current Learning**: Node.js and Next.js
 - 💬 **Ask me about**: JavaScript, Psychology and Cooking
 - ⚡ **Fun Fact**: I love cooking, drink coffee, reading and sun showers
