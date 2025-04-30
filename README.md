@@ -26,11 +26,8 @@ Welcome to my GitHub! I'm a passionate Industrial Engineer fall in love for web 
 
 ## Recent Activity
 
-<-- Start Section -->
-<-- End Section -->
-
-<-- Recent Activity: last Update Start -->
-<-- Recent Activity: last Update End -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 
 ## My GitHub Stats
