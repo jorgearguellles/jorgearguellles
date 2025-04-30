@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a passionate Industrial Engineer fall in love for web 
 - 📧 [Email](mailto:jorgeariasarguelles@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/)
 
-## Recent Activity
+## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. <br>
