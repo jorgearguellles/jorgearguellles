@@ -19,11 +19,19 @@ Welcome to my GitHub! I'm a passionate Industrial Engineer fall in love for web 
 - **Extra Tools**: GitHub, Git, VSC, Xcode, AndroidStudio, Sass, Bootstrap, TailwindCSS
 - **Other**: Cursor, Github Copilot, ChatGPT, n8n
 
-
 ## Get in Touch
 
 - 📧 [Email](mailto:jorgeariasarguelles@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/)
+
+## Recent Activity
+
+<-- Start Section -->
+<-- End Section -->
+
+<-- Recent Activity: last Update Start -->
+<-- Recent Activity: last Update End -->
+
 
 ## My GitHub Stats
 
