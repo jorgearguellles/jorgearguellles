@@ -1,46 +1,29 @@
-# Jorge Arias Argüelles | Front-End Developer
+# Hi, I'm Jorge Arias Argüelles 👋
 
-I am a Frontend Developer with 2 years of experience in modern technologies such as React.js, TypeScript, and Redux, specializing in building dynamic, accessible, and scalable web and mobile interfaces (React Native). I stand out for my analytical thinking, goal-oriented mindset, and clear communication, which enable me to translate complex requirements into intuitive and efficient solutions. Additionally, my expertise in SASS, TailwindCSS, Styled-Components, and Bootstrap allows me to optimize user experiences with maintainable code. With a B2 level in English, I stay up to date with best practices and productivity tools, positioning myself as a systematic and strategic software development professional.
+Welcome to my GitHub! I'm a passionate Industrial Engineer fall in love for web development (Front-End).
+
+## About Me
+
+- 🎓 **Major**: Industrial Engineer 
+- 📍 **Location**: Cali - Colombia  
+- 💼 **Current Job/Position**: Finding new challenges
+- 🌱 **Current Learning**: Node.js and Next.js
+- 💬 **Ask me about**: JavaScript, Psychology and Cooking
+- ⚡ **Fun Fact**: I love cooking, drink coffee, reading and sun showers
 
 ## Skills
 
-<div align="left">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" alt="Android Studio" title="Android Studio"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png" alt="Xcode" title="Xcode"/></code>
-</div>
-</br>
-<div align="left">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png" alt="styled-components" title="styled-components"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webpack.png" alt="webpack" title="webpack"/></code>
-</div>
-</br>
-<div align="left">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-</div>
-</br>
-<div align="left">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" title="Redux"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png" alt="Jest" title="Jest"/></code>
-</div>
+- **Languages**: JavaScript, TypeScript
+- **Dev Tools**: HTML5, CSS3, React.js, Next.js, Node.js, Express.js, Redux, Redux Toolkit, Zustand, Jest.js
+- **Databases**: SQL, MySQL, PostgreSQL, MongoDB
+- **Extra Tools**: GitHub, Git, VSC, Xcode, AndroidStudio, Sass, Bootstrap, TailwindCSS
+- **Other**: Cursor, Github Copilot, ChatGPT, n8n
 
 
-## Socials
+## Get in Touch
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jorgeariasarguelles" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" />
-  </a>
-</p>
+- 📧 [Email](mailto:jorgeariasarguelles@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jorgeariasarguelles/)
 
 ## My GitHub Stats
 
