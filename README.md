@@ -27,14 +27,14 @@ Welcome to my GitHub! I'm a passionate Industrial Engineer fall in love for web 
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jorgearguellles/react-journal-app](https://github.com/jorgearguellles/react-journal-app)<br>
-2. ⬆️ Pushed 1 commit(s) to [jorgearguellles/react-journal-app](https://github.com/jorgearguellles/react-journal-app)<br>
-3. ⬆️ Pushed 1 commit(s) to [jorgearguellles/calendar](https://github.com/jorgearguellles/calendar)<br>
-4. ⬆️ Pushed 1 commit(s) to [jorgearguellles/calendar](https://github.com/jorgearguellles/calendar)<br>
-5. ⬆️ Pushed 1 commit(s) to [jorgearguellles/calendar](https://github.com/jorgearguellles/calendar)<br>
+1. ⬆️ Pushed 1 commit(s) to [jorgearguellles/pokedex-mobile](https://github.com/jorgearguellles/pokedex-mobile)<br>
+2. ⬆️ Pushed 1 commit(s) to [jorgearguellles/pokedex-mobile](https://github.com/jorgearguellles/pokedex-mobile)<br>
+3. ⬆️ Pushed 1 commit(s) to [jorgearguellles/pokedex-mobile](https://github.com/jorgearguellles/pokedex-mobile)<br>
+4. ⬆️ Pushed 1 commit(s) to [jorgearguellles/pokedex-mobile](https://github.com/jorgearguellles/pokedex-mobile)<br>
+5. ⬆️ Pushed 1 commit(s) to [jorgearguellles/react-todo-app](https://github.com/jorgearguellles/react-todo-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 29th, 2025, 2:38:10 AM
+Last Updated: Thursday, May 29th, 2025, 12:20:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
