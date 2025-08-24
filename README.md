@@ -27,14 +27,14 @@ Welcome to my GitHub! I'm a passionate Industrial Engineer fall in love for web 
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jorgearguellles/c4](https://github.com/jorgearguellles/c4)<br>
-2. ⬆️ Pushed 3 commit(s) to [jorgearguellles/c4](https://github.com/jorgearguellles/c4)<br>
-3. ⬆️ Pushed 2 commit(s) to [jorgearguellles/c4](https://github.com/jorgearguellles/c4)<br>
-4. ⬆️ Pushed 1 commit(s) to [jorgearguellles/c4](https://github.com/jorgearguellles/c4)<br>
+1. ⬆️ Pushed 1 commit(s) to [jorgearguellles/EventHub-API](https://github.com/jorgearguellles/EventHub-API)<br>
+2. ⬆️ Pushed 1 commit(s) to [jorgearguellles/c4](https://github.com/jorgearguellles/c4)<br>
+3. ⬆️ Pushed 3 commit(s) to [jorgearguellles/c4](https://github.com/jorgearguellles/c4)<br>
+4. ⬆️ Pushed 2 commit(s) to [jorgearguellles/c4](https://github.com/jorgearguellles/c4)<br>
 5. ⬆️ Pushed 1 commit(s) to [jorgearguellles/c4](https://github.com/jorgearguellles/c4)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 23rd, 2025, 1:19:01 PM
+Last Updated: Sunday, August 24th, 2025, 12:59:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
