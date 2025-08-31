@@ -27,14 +27,14 @@ Welcome to my GitHub! I'm a passionate Industrial Engineer fall in love for web 
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jorgearguellles/JAAA](https://github.com/jorgearguellles/JAAA)<br>
-2. ⬆️ Pushed 1 commit(s) to [jorgearguellles/JAAA](https://github.com/jorgearguellles/JAAA)<br>
-3. 💪 Opened PR [#1](https://github.com/jorgearguellles/JAAA/pull/1) in [jorgearguellles/JAAA](https://github.com/jorgearguellles/JAAA)<br>
-4. ⬆️ Pushed 1 commit(s) to [jorgearguellles/JAAA](https://github.com/jorgearguellles/JAAA)<br>
-5. ⬆️ Pushed 1 commit(s) to [jorgearguellles/JAAA](https://github.com/jorgearguellles/JAAA)<br>
+1. ⬆️ Pushed 1 commit(s) to [jorgearguellles/blog](https://github.com/jorgearguellles/blog)<br>
+2. ⬆️ Pushed 1 commit(s) to [jorgearguellles/blog](https://github.com/jorgearguellles/blog)<br>
+3. ⬆️ Pushed 1 commit(s) to [jorgearguellles/blog](https://github.com/jorgearguellles/blog)<br>
+4. ⬆️ Pushed 1 commit(s) to [jorgearguellles/blog](https://github.com/jorgearguellles/blog)<br>
+5. ⬆️ Pushed 1 commit(s) to [jorgearguellles/blog](https://github.com/jorgearguellles/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 31st, 2025, 2:26:07 AM
+Last Updated: Sunday, August 31st, 2025, 12:19:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
