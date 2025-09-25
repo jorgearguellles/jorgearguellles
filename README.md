@@ -1,13 +1,13 @@
 # Hi, I'm Jorge Arias Argüelles 👋
 
-Welcome to my GitHub! I'm a passionate Industrial Engineer fall in love for web development (Front-End).
+Welcome to my GitHub!
 
 ## About Me
 
 - 🎓 **Major**: Industrial Engineer 
 - 📍 **Location**: Cali - Colombia  
 - 💼 **Current Job/Position**: Web UI Developer
-- 🌱 **Current Learning**: Node.js and Next.js
+- 🌱 **Current Learning**: Node.js , Next.js , Python
 - 💬 **Ask me about**: JavaScript, Psychology and Cooking
 - ⚡ **Fun Fact**: I love cooking, drink coffee, reading and sun showers
 
