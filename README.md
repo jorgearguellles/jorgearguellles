@@ -1,4 +1,4 @@
-# Hi, I'm Jorge Arias Argüelles 👋
+# Hi, I'm Jorge Argüelles 👋
 
 Welcome to my GitHub!
 
