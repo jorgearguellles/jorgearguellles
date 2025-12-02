@@ -27,10 +27,10 @@ Welcome to my GitHub!
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [jorgearguellles/ShipFree](https://github.com/jorgearguellles/ShipFree) from [jorgearguellles/ShipFree](https://github.com/jorgearguellles/ShipFree)<br>
+1. 🔱 Forked [jorgearguellles/ShipFree](https://github.com/jorgearguellles/ShipFree) from [revokslab/ShipFree](https://github.com/revokslab/ShipFree)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 1st, 2025, 1:07:48 PM
+Last Updated: Tuesday, December 2nd, 2025, 12:56:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
