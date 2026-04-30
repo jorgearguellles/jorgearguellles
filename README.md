@@ -27,14 +27,14 @@ Welcome to my GitHub!
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [jorgearguellles/andrej-karpathy-skills](https://github.com/jorgearguellles/andrej-karpathy-skills) from [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
-2. 🔱 Forked [jorgearguellles/Python](https://github.com/jorgearguellles/Python) from [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)<br>
-3. 🔱 Forked [jorgearguellles/tech-interview-handbook](https://github.com/jorgearguellles/tech-interview-handbook) from [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)<br>
-4. 🔱 Forked [jorgearguellles/awesome-scalability](https://github.com/jorgearguellles/awesome-scalability) from [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
-5. 🔱 Forked [jorgearguellles/awesome-machine-learning](https://github.com/jorgearguellles/awesome-machine-learning) from [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)<br>
+1. 🔱 Forked [jorgearguellles/cookbook](https://github.com/jorgearguellles/cookbook) from [cursor/cookbook](https://github.com/cursor/cookbook)<br>
+2. 🔱 Forked [jorgearguellles/andrej-karpathy-skills](https://github.com/jorgearguellles/andrej-karpathy-skills) from [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
+3. 🔱 Forked [jorgearguellles/Python](https://github.com/jorgearguellles/Python) from [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)<br>
+4. 🔱 Forked [jorgearguellles/tech-interview-handbook](https://github.com/jorgearguellles/tech-interview-handbook) from [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)<br>
+5. 🔱 Forked [jorgearguellles/awesome-scalability](https://github.com/jorgearguellles/awesome-scalability) from [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 29th, 2026, 1:21:59 PM
+Last Updated: Thursday, April 30th, 2026, 1:59:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
