@@ -27,12 +27,12 @@ Welcome to my GitHub!
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jorgearguellles/7esquinas-landing](https://github.com/jorgearguellles/7esquinas-landing)<br>
-2. ⬆️ Pushed undefined commit(s) to [jorgearguellles/dev-ai-tools-course](https://github.com/jorgearguellles/dev-ai-tools-course)<br>
+1. 🔱 Forked [jorgearguellles/Vision-Agents](https://github.com/jorgearguellles/Vision-Agents) from [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents)<br>
+2. 🔱 Forked [jorgearguellles/LLMs-from-scratch](https://github.com/jorgearguellles/LLMs-from-scratch) from [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
 3. ⬆️ Pushed undefined commit(s) to [jorgearguellles/7esquinas-landing](https://github.com/jorgearguellles/7esquinas-landing)<br>
-4. 💪 Opened PR [#1](undefined) in [jorgearguellles/7esquinas-landing](https://github.com/jorgearguellles/7esquinas-landing)<br>
+4. ⬆️ Pushed undefined commit(s) to [jorgearguellles/dev-ai-tools-course](https://github.com/jorgearguellles/dev-ai-tools-course)<br>
 5. ⬆️ Pushed undefined commit(s) to [jorgearguellles/7esquinas-landing](https://github.com/jorgearguellles/7esquinas-landing)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 13th, 2026, 2:05:24 PM
+Last Updated: Thursday, May 14th, 2026, 2:10:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
