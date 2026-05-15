@@ -27,12 +27,12 @@ Welcome to my GitHub!
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [jorgearguellles/Vision-Agents](https://github.com/jorgearguellles/Vision-Agents) from [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents)<br>
-2. 🔱 Forked [jorgearguellles/LLMs-from-scratch](https://github.com/jorgearguellles/LLMs-from-scratch) from [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
-3. ⬆️ Pushed undefined commit(s) to [jorgearguellles/7esquinas-landing](https://github.com/jorgearguellles/7esquinas-landing)<br>
-4. ⬆️ Pushed undefined commit(s) to [jorgearguellles/dev-ai-tools-course](https://github.com/jorgearguellles/dev-ai-tools-course)<br>
-5. ⬆️ Pushed undefined commit(s) to [jorgearguellles/7esquinas-landing](https://github.com/jorgearguellles/7esquinas-landing)<br>
+1. 🔱 Forked [jorgearguellles/openui](https://github.com/jorgearguellles/openui) from [thesysdev/openui](https://github.com/thesysdev/openui)<br>
+2. 🔱 Forked [jorgearguellles/Vision-Agents](https://github.com/jorgearguellles/Vision-Agents) from [GetStream/Vision-Agents](https://github.com/GetStream/Vision-Agents)<br>
+3. 🔱 Forked [jorgearguellles/LLMs-from-scratch](https://github.com/jorgearguellles/LLMs-from-scratch) from [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
+4. ⬆️ Pushed undefined commit(s) to [jorgearguellles/7esquinas-landing](https://github.com/jorgearguellles/7esquinas-landing)<br>
+5. ⬆️ Pushed undefined commit(s) to [jorgearguellles/dev-ai-tools-course](https://github.com/jorgearguellles/dev-ai-tools-course)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 14th, 2026, 1:29:29 PM
+Last Updated: Friday, May 15th, 2026, 2:08:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
