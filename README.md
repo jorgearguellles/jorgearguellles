@@ -27,12 +27,12 @@ Welcome to my GitHub!
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [jorgearguellles/open-design](https://github.com/jorgearguellles/open-design) from [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
-2. 🔱 Forked [jorgearguellles/libros-programacion-gratis](https://github.com/jorgearguellles/libros-programacion-gratis) from [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis)<br>
-3. 🔱 Forked [jorgearguellles/ai-engineering-from-scratch](https://github.com/jorgearguellles/ai-engineering-from-scratch) from [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)<br>
-4. ⬆️ Pushed undefined commit(s) to [jorgearguellles/curso-de-vida](https://github.com/jorgearguellles/curso-de-vida)<br>
-5. ⬆️ Pushed undefined commit(s) to [jorgearguellles/curso-de-vida](https://github.com/jorgearguellles/curso-de-vida)<br>
+1. ⬆️ Pushed undefined commit(s) to [jorgearguellles/markitdown-app](https://github.com/jorgearguellles/markitdown-app)<br>
+2. ⭐ Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)<br>
+3. ⬆️ Pushed undefined commit(s) to [jorgearguellles/markitdown-app](https://github.com/jorgearguellles/markitdown-app)<br>
+4. ⬆️ Pushed undefined commit(s) to [jorgearguellles/markitdown-app](https://github.com/jorgearguellles/markitdown-app)<br>
+5. ⬆️ Pushed undefined commit(s) to [jorgearguellles/markitdown-app](https://github.com/jorgearguellles/markitdown-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 1st, 2026, 2:41:01 AM
+Last Updated: Monday, June 1st, 2026, 5:15:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
