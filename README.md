@@ -4,9 +4,9 @@ Welcome to my GitHub!
 
 ## About Me
 
-- 🎓 **Major**: Industrial Engineer 
-- 📍 **Location**: Cali - Colombia  
-- 💼 **Current Job/Position**: Web UI Developer
+- 🎓 **Major**: Industrial Engineer
+- 📍 **Location**: Colombia  
+- 💼 **Current Job/Position**: Freelancer
 - 🌱 **Current Learning**: Claude Code, System Design, MCP Servers
 - 💬 **Ask me about**: JavaScript, Psychology and Cooking
 - ⚡ **Fun Fact**: I love cooking, drink coffee, reading and sun showers
