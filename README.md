@@ -19,7 +19,7 @@ Welcome to my GitHub!
 - **Satate Managment**: Redux, Redux Toolkit, Zustand, TanStack Query 
 - **Testing**: Jest.js, Vitest, Pytest, Playwright, Postman
 - **Databases**: SQL, MySQL, PostgreSQL, MongoDB
-- **Extra Tools**: Git & GitHub, Github Actions, VSC, Xcode, AndroidStudio, Vercel
+- **Extra Tools**: Git & GitHub, Github Actions, VSC, Xcode, AndroidStudio, Vercel, Docker
 - **AI Tools**: Claude Code, Warp, Cursor, Ollama, Hugging Face, Lovable, V0
 
 ## Get in Touch
