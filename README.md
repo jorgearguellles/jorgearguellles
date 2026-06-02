@@ -13,11 +13,14 @@ Welcome to my GitHub!
 
 ## Skills
 
-- **Languages**: JavaScript, TypeScript
-- **Dev Tools**: HTML5, CSS3, React.js, Next.js, Node.js, Express.js, Redux, Redux Toolkit, Zustand, Jest.js
+- **Languages**: JavaScript (ES16 - 2025), TypeScript, Python
+- **Frontend**: HTML5, CSS3, Sass, Bootstrap, TailwindCSS, React.js, Next.js
+- **Backend**: Node.js, Express.js, FastAPI
+- **Satate Managment**: Redux, Redux Toolkit, Zustand, TanStack Query 
+- **Testing**: Jest.js, Vitest, Pytest, Playwright, Postman
 - **Databases**: SQL, MySQL, PostgreSQL, MongoDB
-- **Extra Tools**: GitHub, Git, VSC, Xcode, AndroidStudio, Sass, Bootstrap, TailwindCSS
-- **Other**: Cursor, Github Copilot, ChatGPT, n8n
+- **Extra Tools**: Git & GitHub, Github Actions, VSC, Xcode, AndroidStudio, Vercel
+- **AI Tools**: Claude Code, Warp, Cursor, Ollama, Hugging Face, Lovable, V0
 
 ## Get in Touch
 
