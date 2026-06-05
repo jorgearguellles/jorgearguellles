@@ -30,12 +30,12 @@ Welcome to my GitHub!
 ## ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [jorgearguellles/jorgearguellles](https://github.com/jorgearguellles/jorgearguellles)<br>
-2. ⬆️ Pushed undefined commit(s) to [jorgearguellles/jorgearguellles](https://github.com/jorgearguellles/jorgearguellles)<br>
-3. ⬆️ Pushed undefined commit(s) to [jorgearguellles/jorgearguellles](https://github.com/jorgearguellles/jorgearguellles)<br>
-4. ⬆️ Pushed undefined commit(s) to [jorgearguellles/markitdown-app](https://github.com/jorgearguellles/markitdown-app)<br>
-5. ⭐ Starred [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)<br>
+1. ⬆️ Pushed undefined commit(s) to [jorgearguellles/design-system-components](https://github.com/jorgearguellles/design-system-components)<br>
+2. ⬆️ Pushed undefined commit(s) to [jorgearguellles/design-system-components](https://github.com/jorgearguellles/design-system-components)<br>
+3. ⬆️ Pushed undefined commit(s) to [jorgearguellles/design-system-components](https://github.com/jorgearguellles/design-system-components)<br>
+4. ⬆️ Pushed undefined commit(s) to [jorgearguellles/design-system-components](https://github.com/jorgearguellles/design-system-components)<br>
+5. ⬆️ Pushed undefined commit(s) to [jorgearguellles/fullStackEngineer_Path](https://github.com/jorgearguellles/fullStackEngineer_Path)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 4th, 2026, 2:33:41 PM
+Last Updated: Friday, June 5th, 2026, 2:29:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
